@@ -9,7 +9,7 @@ last_name: Chandran
 contact_note: >
   You can reach me via email or through Linkedin.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My personal website. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Welcome to my personal website. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
@@ -265,7 +265,7 @@ display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] #
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
-# Jekyll Scholar
+# Jekyll 
 # -----------------------------------------------------------------------------
 
 scholar:
