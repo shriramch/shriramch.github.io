@@ -1,12 +1,15 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: A Study of Stability of Discrete Graph Optimization Problems
+description: Undergraduate Research with Prof. Raghavendra Rao
+# img:
+importance: 4
+category: work
 ---
 
+In my final year at IIT Madras, I worked with [Prof. Raghavendra Rao](http://www.cse.iitm.ac.in/~bvrr/), on stable instances of graph algorithms. Stability is promising since real-life graph datasets in many algorithms tend to occur with a certain degree of stability to perturbations, unlike worst-case graph instances. Thus, we conducted a comprehensive literature review of previous research on stability and then analyzed stable instances of Christofides’ algorithm for the Traveling Salesman Problem (TSP) under different stability conditions. We managed to identify improved approximation bounds for stable instances of the algorithm with 2 different definitions of stability. Later, we also covered approximation algorithms and conducted analyses of almost stable instances in random graphs for the vertex cover problem.
+
+<!--
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -77,4 +80,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
