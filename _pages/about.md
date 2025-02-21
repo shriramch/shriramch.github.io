@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Computer Science MSc student at <a href='https://ethz.ch/en.html'>D-INFK ETH Zürich</a>.
 
