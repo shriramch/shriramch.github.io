@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started an 11-week internship at Rubrik India on 24 May 2021, looking forward to doing exciting work with the Blobstore team.
+I began an 11-week internship at Rubrik India on May 24, 2021, excited to work with the Blobstore team.

@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Shriram Chandran, a Computer Science MSc student at [ETH Zürich](https://inf.ethz.ch), majoring in Secure and Reliable Systems, and aiming to get a minor in Theoretical Computer Science. I am currently working on my Master's Thesis, working on graph databases.
+I am Shriram Chandran, a Computer Science MSc student at [ETH Zürich](https://inf.ethz.ch), majoring in Secure and Reliable Systems and aiming to obtain a minor in Theoretical Computer Science. I am currently working on my Master’s thesis, focusing on graph databases.
 
-Previously, I completed my Bachelor of Technology degree in Computer Science and Engineering at the [Indian Institute of Technology Madras](https://www.cse.iitm.ac.in/), from where I graduated in 2022.
+Previously, I completed my Bachelor of Technology degree in Computer Science and Engineering at the [Indian Institute of Technology Madras](https://www.cse.iitm.ac.in/), graduating in 2022.
 
-I am looking for full-time opportunities. My research interests lie in the fields of high-performance computing and data management systems. I'm particularly excited by heterogeneous and distributed computing environments and their potential to accelerate data management systems. I am happy to get in touch on email, or you can also connect with me through LinkedIn.
+I am looking for full-time opportunities. My research interests lie in high-performance computing and data management systems. I am particularly excited about heterogeneous and distributed computing environments and their potential to accelerate data management systems. Feel free to reach out via email, or connect with me on LinkedIn.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-On 14 November 2022, I got my first patent! My work, along with others in Prof. Nasre's group on the StarPlat DSL led to a patent. First of many more to come!
+On November 14, 2022, I received my first patent! My work, along with others in Prof. Nasre’s group on the StarPlat DSL, led to a patent—hopefully, the first of many more to come!

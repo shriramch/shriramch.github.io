@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-On 13 July 2022, I graduated from IIT Madras with a B. Tech. degree in Computer Science and Engineering! I look forward to starting my master's degree at ETH Zürich in 2 months.
+I graduated from IIT Madras with a B. Tech. degree in Computer Science and Engineering! As part of my Bachelor’s project with Prof. Nasre’s group, I worked on implementing compiler optimizations for a Graph DSL. Looking forward to starting my master’s degree at ETH Zürich in two months.

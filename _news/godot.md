@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started a 6-week internship at Godot Media, a Bangalore-based startup on 23 November 2020.
+I started a six-week internship at Godot Media, a Bangalore-based startup, on November 23, 2020.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on Maximus during my semester project, submitted on 11 October 2024, was accepted at SIGMOD 2025!
+Our work on Maximus, which I contributed to during my semester project and submitted on October 11, 2024, has been accepted at SIGMOD 2025!

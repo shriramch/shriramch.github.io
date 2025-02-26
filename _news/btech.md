@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my B. Tech. degree in Computer Science and Engineering on 31 July 2018 at IIT Madras! I had a great performance out of high school, with 2 KVPY scholarships, qualifying to the training camp for the International Physics and Astronomy Olympiads, and getting an AIR 74 in JEE (Advanced 2018).
+I started my B. Tech. degree in Computer Science and Engineering at IIT Madras! I had a strong academic performance in high school, securing two KVPY scholarships, qualifying for the training camps for the International Physics and Astronomy Olympiads, and achieving an AIR 74 in JEE Advanced 2018.

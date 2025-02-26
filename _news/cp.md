@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was one of the best competitive programmers at IIT Madras. I finished in the top 200 participants in the ICPC Amritapuri online qualifiers in 2019.
+I was among the best competitive programmers at IIT Madras. I placed in the top 200 participants in the ICPC Amritapuri online qualifiers in 2019.
