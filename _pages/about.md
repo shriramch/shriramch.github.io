@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Science MSc student at <a href='https://ethz.ch/en.html'>D-INFK ETH Zürich</a>.
+subtitle: Computer Science Doctoral Student at <a href='https://ethz.ch/en.html'>D-INFK ETH Zürich</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: Zürich, Switzerland
+  # more_info: Zürich, Switzerland
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Shriram Chandran, a Computer Science MSc student at [ETH Zürich](https://inf.ethz.ch), majoring in Secure and Reliable Systems and aiming to obtain a minor in Theoretical Computer Science. For my Master's thesis, I focused on graph databases.
+I am Shriram Chandran, a Doctoral student at the [Scalable Parallel Computing Laboratory](https://spcl.inf.ethz.ch/) at ETH Zürich, advised by [Prof. Dr. Torsten Hoefler](https://htor.ethz.ch/). My interests lie in high-performance computing, heterogeneous and distributed computing and hardware-aware programming.
 
-Previously, I completed my Bachelor of Technology degree in Computer Science and Engineering at the [Indian Institute of Technology Madras](https://www.cse.iitm.ac.in/), graduating in 2022.
+Previously, I completed my Master of Science degree at [ETH Zürich](https://inf.ethz.ch/), graduating in 2025, and my Bachelor of Technology degree in Computer Science and Engineering at the [Indian Institute of Technology Madras](https://www.cse.iitm.ac.in/), graduating in 2022.
 
-I am looking for full-time opportunities. My interests lie in high-performance computing, data management systems, and graph processing. I am particularly excited about heterogeneous and distributed computing environments and their potential to accelerate data management systems and data analytics. Feel free to reach out via email, or connect with me on LinkedIn.
+I am always looking for new and interesting challenges worth chasing! Feel free to reach out via email, or connect with me on LinkedIn.
