@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Shriram Chandran, a Doctoral student at the [Scalable Parallel Computing Laboratory](https://spcl.inf.ethz.ch/) at ETH Zürich, advised by [Prof. Dr. Torsten Hoefler](https://htor.ethz.ch/). My interests lie in high-performance computing, heterogeneous and distributed computing and hardware-aware programming.
+I am Shriram Chandran, a Doctoral student at the [Scalable Parallel Computing Laboratory](https://spcl.inf.ethz.ch/) at ETH Zürich, advised by [Prof. Dr. Torsten Hoefler](https://htor.ethz.ch/). My research focuses on portable high-performance computing, compiler systems, and programming models for heterogeneous architectures.
 
-Previously, I completed my Master of Science degree at [ETH Zürich](https://inf.ethz.ch/), graduating in 2025, and my Bachelor of Technology degree in Computer Science and Engineering at the [Indian Institute of Technology Madras](https://www.cse.iitm.ac.in/), graduating in 2022.
+Previously, I completed my Master of Science in Computer Science at [ETH Zürich](https://inf.ethz.ch/), graduating in 2025, and my Bachelor of Technology degree in Computer Science and Engineering at the [Indian Institute of Technology Madras](https://www.cse.iitm.ac.in/), graduating in 2022.
 
-I am always looking for new and interesting challenges worth chasing! Feel free to reach out via email, or connect with me on LinkedIn.
+I am always interested in challenging research problems and collaborations. Feel free to reach out via email, or connect with me on LinkedIn.
